@@ -19,6 +19,9 @@ The `style.css` file includes the custom styles for the web page. It is linked i
 - About/Contact section: Contains a personal statement and a profile picture.
 - Footer section: Includes links to GitHub, Twitter, and LinkedIn profiles.
 
+## Gif
+![bootstrap](https://github.com/dudi62/Bootstrap-Portfolio/assets/63518444/65f39d64-2156-45b7-acae-84df6b743cd0)
+
 ## Usage
 
 To view the web page, open the `index.html` file in a web browser. The styles defined in the `style.css` file will be applied to the HTML elements.
